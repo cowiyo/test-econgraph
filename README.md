@@ -1,5 +1,3 @@
-# test-econgraph
-first tester for vizualizations
 ---
 layout: exercise
 title: Curved PPF
